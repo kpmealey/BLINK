@@ -5,7 +5,7 @@
 # LICENSE file in the root directory of this source tree.
 
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 with open("README.md") as f:
     readme = f.read()
